@@ -24,3 +24,5 @@ sudo npm install -g pm2@latest
 pm2 start speed.js
 
 pm2 startup
+
+echo !!!MUST COPY AND PASTE LAST LINE FOR PM2 TO START!!!
