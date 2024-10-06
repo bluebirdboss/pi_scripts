@@ -4,7 +4,7 @@ cd /etc/samba
 
 sudo rm smb.conf
 
-wget https://raw.githubusercontent.com/21Greentree/pi_scripts/main/smb/smb.conf
+sudo wget https://raw.githubusercontent.com/bluebirdboss/pi_scripts/main/smb/smb.conf
 
 echo Manually add user to smb service 
 
